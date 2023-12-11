@@ -1,0 +1,6 @@
+.DS_Store
+.idea/
+
+rust/.idea
+rust/target
+rust/Cargo.lock
